@@ -72,7 +72,7 @@ result = td_psola(
     stretch_factor=1.0,
 )
 
-sf.write("output_audio.wav", result, sr)</code></pre>
+sf.write("output_audio.wav", result, sr)
 ```
 
 ---
